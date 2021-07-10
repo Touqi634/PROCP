@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireSimulation", "FireSimulation\FireSimulation.csproj", "{FCB76396-9140-4879-A3E8-FC36C72637B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{B7BC56A3-692A-4A79-80A8-B03C269A36DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB76396-9140-4879-A3E8-FC36C72637B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB76396-9140-4879-A3E8-FC36C72637B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB76396-9140-4879-A3E8-FC36C72637B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB76396-9140-4879-A3E8-FC36C72637B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BC56A3-692A-4A79-80A8-B03C269A36DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BC56A3-692A-4A79-80A8-B03C269A36DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BC56A3-692A-4A79-80A8-B03C269A36DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BC56A3-692A-4A79-80A8-B03C269A36DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464EF8E7-1B5F-44A7-B53C-B91CB9796CF8}
+	EndGlobalSection
+EndGlobal
